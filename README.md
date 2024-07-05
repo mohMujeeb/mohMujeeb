@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Mujeeb Ur Rehman, a passionate AI enthusiast and a dedicated contributor to the tech community. With a solid foundation in computer science and a knack for developing innovative AI models, I have had the privilege of working on diverse projects that drive meaningful impact.
+## Mujeeb Ur Rehman
+I'm *Mujeeb Ur Rehman*, a passionate AI enthusiast and a dedicated contributor to the tech community. With a solid foundation in computer science and a knack for developing innovative AI models, I have had the privilege of working on diverse projects that drive meaningful impact.
 
 ## Technical Expertise
 
