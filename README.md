@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mohMujeeb.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohMujeeb)](https://github.com/anuraghazra/github-readme-stats)
 
