@@ -9,3 +9,4 @@
 ## Let's Connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mujeeb-ur-rehman-146aa2250/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muuuuujeeb/)  
+[![committers.top badge](https://user-badge.committers.top/pakistan/mohMujeeb.svg)](https://user-badge.committers.top/pakistan/mohMujeeb)
