@@ -4,7 +4,6 @@
 - ⚡ I code to solve problems
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohMujeeb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohMujeeb&hide_border=true&card_width=450&card_height=170)](https://git.io/streak-stats)
 
 ## Let's Connect
 
